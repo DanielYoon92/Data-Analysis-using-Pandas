@@ -19,6 +19,8 @@ The objective was to create a Python script that would analyze the records and c
 6. I successfully implemented the Python script to perform these calculations. The script printed the analysis directly to the terminal, providing comprehensive information on the financial records. 
 
 
+
+
 **__Modernizing Vote-Counting Process__**
 
 I was tasked with assisting a small, rural town in modernizing its vote-counting process. The objective was to streamline the process and enhance efficiency.
